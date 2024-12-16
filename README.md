@@ -1,5 +1,6 @@
 # ISM
 Temp site: https://unrivaled-bombolone-f949ce.netlify.app/
+
 Interpretive Structural Modeling (ISM) is a computer-based technique that helps groups develop graphical representations of complex systems. It's a widely used method for identifying the relationships between elements in a system.
 Here are some characteristics of ISM:
 Systematic 
